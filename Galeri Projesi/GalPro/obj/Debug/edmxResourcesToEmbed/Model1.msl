@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GaleriProje3ModelStoreContainer" CdmEntityContainer="GaleriProje3Entities">
+    <EntitySetMapping Name="aracs">
+      <EntityTypeMapping TypeName="GaleriProje3Model.arac">
+        <MappingFragment StoreEntitySet="arac">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="marka" ColumnName="marka" />
+          <ScalarProperty Name="model" ColumnName="model" />
+          <ScalarProperty Name="yil" ColumnName="yil" />
+          <ScalarProperty Name="ozellik" ColumnName="ozellik" />
+          <ScalarProperty Name="motor" ColumnName="motor" />
+          <ScalarProperty Name="renk" ColumnName="renk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kullanicis">
+      <EntityTypeMapping TypeName="GaleriProje3Model.Kullanici">
+        <MappingFragment StoreEntitySet="Kullanici">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="kulAd" ColumnName="kulAd" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Musteris">
+      <EntityTypeMapping TypeName="GaleriProje3Model.Musteri">
+        <MappingFragment StoreEntitySet="Musteri">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nameSurname" ColumnName="nameSurname" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subes">
+      <EntityTypeMapping TypeName="GaleriProje3Model.Sube">
+        <MappingFragment StoreEntitySet="Sube">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="SubeAd" ColumnName="SubeAd" />
+          <ScalarProperty Name="CalisanSayisi" ColumnName="CalisanSayisi" />
+          <ScalarProperty Name="SubeCiro" ColumnName="SubeCiro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Satis">
+      <EntityTypeMapping TypeName="GaleriProje3Model.Satis">
+        <MappingFragment StoreEntitySet="Satis">
+          <ScalarProperty Name="SatisTarih" ColumnName="SatisTarih" />
+          <ScalarProperty Name="AracId" ColumnName="AracId" />
+          <ScalarProperty Name="MusteriId" ColumnName="MusteriId" />
+          <ScalarProperty Name="SubeId" ColumnName="SubeId" />
+          <ScalarProperty Name="SatisId" ColumnName="SatisId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

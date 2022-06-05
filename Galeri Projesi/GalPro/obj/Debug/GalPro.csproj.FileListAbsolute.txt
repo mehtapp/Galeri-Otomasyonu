@@ -1,0 +1,149 @@
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\bin\Debug\GalPro.exe.config
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\bin\Debug\GalPro.exe
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\bin\Debug\GalPro.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.Form1.resources
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.KullaniciGiris.resources
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.Musteriler.resources
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.exe
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.Araclar.resources
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.Raporlar.resources
+C:\Users\STUDENT2\Desktop\Mehtap\GalPro\GalPro\obj\Debug\GalPro.Subeler.resources
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.exe.config
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.exe
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.pdb
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Araclar.resources
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Form1.resources
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.KullaniciGiris.resources
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Musteriler.resources
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Raporlar.resources
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Subeler.resources
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.exe
+C:\Users\STUDENT2\Desktop\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Araclar.resources
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Form1.resources
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Musteriler.resources
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Properties.Resources.resources
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Raporlar.resources
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Subeler.resources
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.exe
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.exe.config
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.exe
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.dll
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.xml
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.CopyComplete
+C:\Users\hvdem\Desktop\19\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Giris.resources
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.exe.config
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.exe
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\GalPro.pdb
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Araclar.resources
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Form1.resources
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Giris.resources
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Musteriler.resources
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Raporlar.resources
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.Subeler.resources
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.exe
+C:\Users\STUDENT2\Desktop\Entitiy Org\Entitiy Konusu\Entitiy Konusu\GalPro\GalPro\obj\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\bin\Debug\GalPro.exe.config
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\bin\Debug\GalPro.exe
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\bin\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\bin\Debug\EntityFramework.dll
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\bin\Debug\EntityFramework.xml
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.Araclar.resources
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.Form1.resources
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.Giris.resources
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.Musteriler.resources
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.Raporlar.resources
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.Subeler.resources
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.csproj.CopyComplete
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.exe
+C:\Users\hvdem\Desktop\Entitiy Org\GalPro\GalPro\obj\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\bin\Debug\GalPro.exe.config
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\bin\Debug\GalPro.exe
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\bin\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\bin\Debug\EntityFramework.dll
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\bin\Debug\EntityFramework.xml
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.Araclar.resources
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.Form1.resources
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.Giris.resources
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.Musteriler.resources
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.Raporlar.resources
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.Subeler.resources
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.csproj.CopyComplete
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.exe
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\Projeler\3GalPro\GalPro\obj\Debug\GalPro.Satislar.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\bin\Debug\GalPro.exe.config
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\bin\Debug\GalPro.exe
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\bin\Debug\GalPro.pdb
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\bin\Debug\EntityFramework.dll
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\bin\Debug\EntityFramework.xml
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.Araclar.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.Form1.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.Giris.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.Musteriler.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.Raporlar.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.Satislar.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.Subeler.resources
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.csproj.CopyComplete
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.exe
+C:\Users\hvdem\Desktop\Projeler\3 GalPro\GalPro\obj\Debug\GalPro.pdb

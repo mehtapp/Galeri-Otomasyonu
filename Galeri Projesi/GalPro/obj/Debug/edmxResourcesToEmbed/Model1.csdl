@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GaleriProje3Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="arac">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fiyat" Type="Int32" />
+    <Property Name="adet" Type="Int32" />
+    <Property Name="marka" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="model" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="yil" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ozellik" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="motor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="renk" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kulAd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Musteri">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nameSurname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="adress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="phone" Type="String" MaxLength="12" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Sube">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubeAd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CalisanSayisi" Type="Int32" />
+    <Property Name="SubeCiro" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="GaleriProje3Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="aracs" EntityType="Self.arac" />
+    <EntitySet Name="Kullanicis" EntityType="Self.Kullanici" />
+    <EntitySet Name="Musteris" EntityType="Self.Musteri" />
+    <EntitySet Name="Subes" EntityType="Self.Sube" />
+    <EntitySet Name="Satis" EntityType="GaleriProje3Model.Satis" />
+    <AssociationSet Name="FK_Satis_arac" Association="GaleriProje3Model.FK_Satis_arac">
+      <End Role="arac" EntitySet="aracs" />
+      <End Role="Sati" EntitySet="Satis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satis_Musteri" Association="GaleriProje3Model.FK_Satis_Musteri">
+      <End Role="Musteri" EntitySet="Musteris" />
+      <End Role="Sati" EntitySet="Satis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satis_Sube" Association="GaleriProje3Model.FK_Satis_Sube">
+      <End Role="Sube" EntitySet="Subes" />
+      <End Role="Sati" EntitySet="Satis" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Satis">
+    <Key>
+      <PropertyRef Name="SatisId" />
+    </Key>
+    <Property Name="SatisId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubeId" Type="Int32" />
+    <Property Name="MusteriId" Type="Int32" />
+    <Property Name="AracId" Type="Int32" />
+    <Property Name="SatisTarih" Type="DateTime" Precision="0" />
+  </EntityType>
+  <Association Name="FK_Satis_arac">
+    <End Type="GaleriProje3Model.arac" Role="arac" Multiplicity="0..1" />
+    <End Type="GaleriProje3Model.Satis" Role="Sati" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="arac">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Sati">
+        <PropertyRef Name="AracId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satis_Musteri">
+    <End Type="GaleriProje3Model.Musteri" Role="Musteri" Multiplicity="0..1" />
+    <End Type="GaleriProje3Model.Satis" Role="Sati" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteri">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Sati">
+        <PropertyRef Name="MusteriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satis_Sube">
+    <End Type="GaleriProje3Model.Sube" Role="Sube" Multiplicity="0..1" />
+    <End Type="GaleriProje3Model.Satis" Role="Sati" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sube">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Sati">
+        <PropertyRef Name="SubeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
